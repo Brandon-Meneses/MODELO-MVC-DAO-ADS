@@ -1,10 +1,10 @@
-# Proyecto de Ejemplo con Patrón Arquitectónico MVC y DAO
+# Proyecto Final con Patrón Arquitectónico MVC y DAO
 
 Este proyecto demuestra la implementación de un CRUD para las entidades `Usuario`, `Cliente`, `Venta`, `Factura`, `Inventario`, `Producto` y `Pedido` utilizando el patrón arquitectónico MVC y DAO.
 
 ## Requisitos del Sistema
 
-- Java 11 o superior
+- Java 17 o superior
 - MySQL Server
 - IDE como IntelliJ IDEA o Eclipse
 
@@ -60,11 +60,6 @@ El siguiente es un ejemplo de cómo ejecutar operaciones CRUD para las entidades
 - Actualizar un usuario
 - Eliminar un usuario
 - Obtener todos los usuarios
-
-## Capturas de Pantalla
-
-![Captura de Pantalla 1](screenshots/captura1.png)
-![Captura de Pantalla 2](screenshots/captura2.png)
 
 ## Script SQL
 
