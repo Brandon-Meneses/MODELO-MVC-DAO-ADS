@@ -2,6 +2,10 @@
 
 Este proyecto demuestra la implementación de un CRUD para las entidades `Usuario`, `Cliente`, `Venta`, `Factura`, `Inventario`, `Producto` y `Pedido` utilizando el patrón arquitectónico MVC y DAO.
 
+## Información del Curso
+
+Este proyecto forma parte del curso de Análisis y Diseño de Sistemas de Información dictado en la Universidad Tecnológica del Perú (UTP).
+
 ## Requisitos del Sistema
 
 - Java 17 o superior
@@ -53,7 +57,7 @@ Este proyecto demuestra la implementación de un CRUD para las entidades `Usuari
 
 ## Ejemplo de Uso
 
-El siguiente es un ejemplo de cómo ejecutar operaciones CRUD para las entidades. 
+El siguiente es un ejemplo de cómo ejecutar operaciones CRUD para las entidades.
 
 - Crear un nuevo usuario
 - Leer un usuario
